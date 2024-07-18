@@ -10,6 +10,7 @@ import Frameworks.AbstractComponents.AbstractComponent;
 
 public class LandingPage extends AbstractComponent
 {
+       //landing to login page
 	WebDriver driver;
 	public LandingPage(WebDriver driver) //constructor 
 	{
